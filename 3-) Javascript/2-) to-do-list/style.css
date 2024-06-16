@@ -1,0 +1,17 @@
+.li{
+  list-style: none; 
+  display: flex; 
+  justify-content: space-between; 
+  background-color: #FF6969;
+}
+.p{
+  color: #FFF5E0; 
+  font-style: oblique; 
+  font-size: large;
+}
+.bttn{
+  color: #FFF5E0; 
+  font-style: oblique; 
+  font-size: large; 
+  border-left: 2px solid;
+}
